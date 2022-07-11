@@ -1,0 +1,20 @@
+{
+  "name": "exx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "form-data": "^4.0.0",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
