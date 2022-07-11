@@ -7,6 +7,10 @@ in the project directory run this Cammand
 
  ```npm i && node server.js```
  
+ And go to http://localhost:3000/
+ 
+ 
+ 
  # Here is the Image of Website
 
 ![Image Editing App](/public/image.png)
